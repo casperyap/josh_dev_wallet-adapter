@@ -1,6 +1,6 @@
 {
     "extends": "../../../tsconfig.root.json",
-    "include": ["src"],
+    "include": ["src", "src/idl.json"],
     "compilerOptions": {
         "outDir": "lib",
         "target": "es5",

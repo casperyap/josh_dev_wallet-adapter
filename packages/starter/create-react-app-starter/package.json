@@ -27,6 +27,7 @@
         "eject": "react-scripts eject"
     },
     "dependencies": {
+        "@coral-xyz/anchor": "^0.28.1-beta.2",
         "@solana/wallet-adapter-base": "workspace:^",
         "@solana/wallet-adapter-react": "workspace:^",
         "@solana/wallet-adapter-react-ui": "workspace:^",
